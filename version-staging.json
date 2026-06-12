@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "policy": {
+    "offlineGraceDays": 7,
+    "staleCheckDays": null
+  },
+  "ios": {
+    "latestVersion": "1.0.0",
+    "minimumVersion": "1.0.0",
+    "softMinimumVersion": null,
+    "storeUrl": null,
+    "requiredMessage": "This version can no longer estimate food accurately. Update to keep your log trustworthy.",
+    "nudgeMessage": "Smarter food matching and voice logging.",
+    "highlights": [
+      "Voice logging",
+      "Smarter quick-add suggestions",
+      "Plan your next meal"
+    ]
+  },
+  "android": {
+    "latestVersion": "1.0.0",
+    "minimumVersion": "1.0.0",
+    "softMinimumVersion": null,
+    "storeUrl": null,
+    "requiredMessage": "This version can no longer estimate food accurately. Update to keep your log trustworthy.",
+    "nudgeMessage": "Smarter food matching and voice logging.",
+    "highlights": [
+      "Voice logging",
+      "Smarter quick-add suggestions",
+      "Plan your next meal"
+    ]
+  }
+}
