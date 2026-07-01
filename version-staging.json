@@ -7,7 +7,7 @@
   "ios": {
     "latestVersion": "1.6.4",
     "minimumVersion": "1.6.1",
-    "softMinimumVersion": null,
+    "softMinimumVersion": "1.6.4",
     "storeUrl": null,
     "requiredMessage": "Update to get the latest features.",
     "nudgeMessage": "Smarter food matching and voice logging.",
@@ -20,7 +20,7 @@
   "android": {
     "latestVersion": "1.6.4",
     "minimumVersion": "1.6.1",
-    "softMinimumVersion": null,
+    "softMinimumVersion": "1.6.4",
     "storeUrl": null,
     "requiredMessage": "Update to get the latest features.",
     "nudgeMessage": "Smarter food matching and voice logging.",
