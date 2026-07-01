@@ -5,7 +5,7 @@
     "staleCheckDays": null
   },
   "ios": {
-    "latestVersion": "1.6.3",
+    "latestVersion": "1.6.4",
     "minimumVersion": "1.6.1",
     "softMinimumVersion": null,
     "storeUrl": null,
@@ -18,7 +18,7 @@
     ]
   },
   "android": {
-    "latestVersion": "1.6.3",
+    "latestVersion": "1.6.4",
     "minimumVersion": "1.6.1",
     "softMinimumVersion": null,
     "storeUrl": null,
