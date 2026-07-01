@@ -5,9 +5,9 @@
     "staleCheckDays": null
   },
   "ios": {
-    "latestVersion": "1.6.4",
+    "latestVersion": "1.6.5",
     "minimumVersion": "1.6.4",
-    "softMinimumVersion": "1.6.4",
+    "softMinimumVersion": "1.6.5",
     "storeUrl": null,
     "requiredMessage": "Update to get the latest features.",
     "nudgeMessage": "Smarter food matching and voice logging.",
@@ -18,9 +18,9 @@
     ]
   },
   "android": {
-    "latestVersion": "1.6.4",
+    "latestVersion": "1.6.5",
     "minimumVersion": "1.6.4",
-    "softMinimumVersion": "1.6.4",
+    "softMinimumVersion": "1.6.5",
     "storeUrl": null,
     "requiredMessage": "Update to get the latest features.",
     "nudgeMessage": "Smarter food matching and voice logging.",
