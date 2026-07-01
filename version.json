@@ -5,11 +5,11 @@
     "staleCheckDays": null
   },
   "ios": {
-    "latestVersion": "1.0.0",
-    "minimumVersion": "1.0.0",
+    "latestVersion": "1.6.3",
+    "minimumVersion": "1.6.1",
     "softMinimumVersion": null,
     "storeUrl": null,
-    "requiredMessage": "This version can no longer estimate food accurately. Update to keep your log trustworthy.",
+    "requiredMessage": "Update to get the latest features.",
     "nudgeMessage": "Smarter food matching and voice logging.",
     "highlights": [
       "Voice logging",
@@ -18,11 +18,11 @@
     ]
   },
   "android": {
-    "latestVersion": "1.0.0",
-    "minimumVersion": "1.0.0",
+    "latestVersion": "1.6.3",
+    "minimumVersion": "1.6.1",
     "softMinimumVersion": null,
     "storeUrl": null,
-    "requiredMessage": "This version can no longer estimate food accurately. Update to keep your log trustworthy.",
+    "requiredMessage": "Update to get the latest features.",
     "nudgeMessage": "Smarter food matching and voice logging.",
     "highlights": [
       "Voice logging",
