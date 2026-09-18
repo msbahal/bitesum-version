@@ -5,29 +5,27 @@
     "staleCheckDays": null
   },
   "ios": {
-    "latestVersion": "1.6.5",
+    "latestVersion": "1.7.1",
     "minimumVersion": "1.6.5",
-    "softMinimumVersion": "1.6.5",
+    "softMinimumVersion": "1.7.1",
     "storeUrl": null,
     "requiredMessage": "Update to get the latest features.",
     "nudgeMessage": "Smarter food matching and voice logging.",
     "highlights": [
-      "Voice logging",
-      "Smarter quick-add suggestions",
-      "Plan your next meal"
+      "Improved Algorithms",
+      "Better performance and UI"
     ]
   },
   "android": {
-    "latestVersion": "1.6.5",
+    "latestVersion": "1.7.1",
     "minimumVersion": "1.6.5",
-    "softMinimumVersion": "1.6.5",
+    "softMinimumVersion": "1.7.1",
     "storeUrl": null,
     "requiredMessage": "Update to get the latest features.",
     "nudgeMessage": "Smarter food matching and voice logging.",
     "highlights": [
-      "Voice logging",
-      "Smarter quick-add suggestions",
-      "Plan your next meal"
+      "Improved Algorithms",
+      "Better performance and UI"
     ]
   }
 }
