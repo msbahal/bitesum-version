@@ -6,7 +6,7 @@
   },
   "ios": {
     "latestVersion": "1.7.1",
-    "minimumVersion": "1.6.5",
+    "minimumVersion": "1.7.1",
     "softMinimumVersion": "1.7.1",
     "storeUrl": null,
     "requiredMessage": "Update to get the latest features.",
@@ -18,7 +18,7 @@
   },
   "android": {
     "latestVersion": "1.7.1",
-    "minimumVersion": "1.6.5",
+    "minimumVersion": "1.7.1",
     "softMinimumVersion": "1.7.1",
     "storeUrl": null,
     "requiredMessage": "Update to get the latest features.",
